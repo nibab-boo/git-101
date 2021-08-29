@@ -11,8 +11,8 @@ h2{
 	justify-content: center;
 	flex-direction: column;
 	height: 100vh;
-	background-color: rgba(10, 0, 0, .2);
-	color: white;
+	background-color: lightyellow;
+	color: black;
 }
 
 #logo{
